@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>mahi</finalName>
+    <finalName>mvnprotom</finalName>
   </build>
 </project>
